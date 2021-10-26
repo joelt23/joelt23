@@ -1,0 +1,63 @@
+.fuego{
+	background-color: #EF8308;
+}
+
+.agua{
+	background-color: #4b9ad5;
+
+}
+
+.bicho{
+	
+	background-color: #acd657;
+}
+
+.veneno{
+	background-color: #c56ff9;
+
+}
+
+.planta{
+	background-color: #98f762;
+
+}
+
+.volador{
+	background-image: linear-gradient(to bottom, blue, grey);
+}
+
+.normal{
+	background-color: #c5c6c4;
+}
+
+.eléctrico{
+	background-color: #e9ec59;
+}
+
+.tierra{
+	background-color: #d2d61c;
+}
+
+.lucha{
+	background-color: #d86325;
+}
+
+.psíquico{
+	background-color: #eb73d3;
+}
+
+.fantasma{
+	background-color: #a688b7;
+}
+
+.roca{
+	background-color: #ca9d23;
+}
+
+.hielo{
+	background-color: #96eff0;
+}
+
+.dragón{
+	background-color: #8d77c8;
+}
